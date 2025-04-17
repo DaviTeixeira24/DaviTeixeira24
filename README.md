@@ -1,4 +1,4 @@
-![Banner](https://i.imgur.com/yxcAXnI.png)
+
 
 # **Davi Teixeira**
 

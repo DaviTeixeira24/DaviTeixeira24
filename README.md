@@ -14,7 +14,7 @@ Hello! My name is Davi Teixeira, I’m 20 years old and currently focused on bec
 
 Besides studying Java, I also have experience with the MERN stack (MongoDB, Express.js, React.js, and Node.js), which gave me a strong understanding of both frontend and backend development. My main goal is to specialize in backend technologies and grow as a professional in the software development field.
 
-## 🚀 Projetos e Experiências / Projects and Experiences
+## Projetos e Experiências / Projects and Experiences
 
 **Português:**
 
@@ -40,13 +40,13 @@ Besides studying Java, I also have experience with the MERN stack (MongoDB, Expr
 - ![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 - ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-## 🤝 Soft Skills
+## Soft Skills
 
-- 🎯 Focado / Focused
-- 💪 Esforçado / Hardworking
-- 💡 Curioso e autodidata / Curious & self-taught
-- 🤝 Colaborativo / Team player
-- 🔄 Adaptável / Adaptable
+- Focado / Focused
+- Esforçado / Hardworking
+- Curioso e autodidata / Curious & self-taught
+- Colaborativo / Team player
+- Adaptável / Adaptable
 
 ## 🔗 Links
 

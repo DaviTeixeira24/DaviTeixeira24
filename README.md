@@ -31,7 +31,7 @@ Besides studying Java, I also have experience with the MERN stack (MongoDB, Expr
 
   These experiences have been fundamental to my growth as a developer and drive me to continue learning and evolving in the area.
 
-## 🛠 Skills / Habilidades
+## Skills / Habilidades
 
 - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 - ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)

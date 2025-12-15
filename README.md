@@ -28,7 +28,6 @@
 ## 🔧 **Outras Competências:**
 - **Suporte Técnico:** Manutenção de servidores, switches, redes.
 - **Infraestrutura:** Configuração de redes, troubleshooting e gerenciamento de sistemas.
-- **IA:** Desenvolvimento de chatbot com IA utilizando OpenAI.
 
 ## 📍 **Localização:** Rio de Janeiro, RJ  
 📧 **Email:** [davisilvateixeiramoreira@gmail.com]  

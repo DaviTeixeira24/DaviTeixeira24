@@ -1,50 +1,38 @@
+# Davi Teixeira | Desenvolvedor Full Stack | TI
+
+## 🚀 Tecnologias e Ferramentas
+
+**Frontend:**
+- ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+- ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+- ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+**Backend:**
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+
+**APIs:**
+- ![REST](https://img.shields.io/badge/REST-25B7F2?style=for-the-badge&logo=rest&logoColor=white)
+- ![Axios](https://img.shields.io/badge/Axios-5A29E8?style=for-the-badge&logo=axios&logoColor=white)
+
+**DevOps & Infra:**
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+- ![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+
+**Sistemas Operacionais:**
+- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+## 🔧 **Outras Competências:**
+- **Suporte Técnico:** Manutenção de servidores, switches, redes.
+- **Infraestrutura:** Configuração de redes, troubleshooting e gerenciamento de sistemas.
+- **IA:** Desenvolvimento de chatbot com IA utilizando OpenAI.
+
+## 📍 **Localização:** Rio de Janeiro, RJ  
+📧 **Email:** [davisilvateixeiramoreira@gmail.com]  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/davteiixeira/]  
+🔗 **GitHub:** [github.com/DaviTeixeira24]
 
 
-# **Davi Teixeira**
-
-**Português:**
-
-Olá! Meu nome é Davi Teixeira, tenho 20 anos e estou focado em me tornar um desenvolvedor backend Java. Possuo inglês em nível intermediário e estou sempre buscando melhorar minhas habilidades.
-
-Além de estudar Java, também tenho experiência com a stack MERN (MongoDB, Express.js, React.js e Node.js), o que me proporcionou uma boa base tanto em frontend quanto em backend. Meu principal objetivo é me especializar no desenvolvimento backend e crescer como profissional na área de tecnologia.
-
-**English:**
-
-Hello! My name is Davi Teixeira, I’m 20 years old and currently focused on becoming a Java backend developer. I have intermediate English skills and I’m always looking to improve.
-
-Besides studying Java, I also have experience with the MERN stack (MongoDB, Express.js, React.js, and Node.js), which gave me a strong understanding of both frontend and backend development. My main goal is to specialize in backend technologies and grow as a professional in the software development field.
-
-## Projetos e Experiências / Projects and Experiences
-
-**Português:**
-
-- Atualmente, faço parte da **equipe de desenvolvimento no meu estágio**, onde estamos trabalhando em uma **inteligência artificial chamada Aurora**. Estou encarregado de **desenvolver a interface do site**, focando na experiência do usuário e integração com os serviços da IA.
-- Realizei um **projeto completo com a stack MERN**, com o objetivo de desafiar minhas habilidades e aprofundar meu conhecimento em desenvolvimento web fullstack. Esse projeto me permitiu aplicar boas práticas, estruturar APIs REST, gerenciar estados com React e integrar o backend com banco de dados MongoDB.
-
-  Essas experiências têm sido fundamentais para meu crescimento como desenvolvedor e me impulsionam a continuar aprendendo e evoluindo na área.
-
-**English:**
-
-- I am currently part of the **development team at my internship**, where we are working on an **artificial intelligence called Aurora**. I am in charge of **developing the website interface**, focusing on user experience and integration with AI services.
-
-- I carried out a **complete project with the MERN stack**, with the aim of challenging my skills and deepening my knowledge in fullstack web development. This project allowed me to apply best practices, structure REST APIs, manage states with React and integrate the backend with the MongoDB database.
-
-  These experiences have been fundamental to my growth as a developer and drive me to continue learning and evolving in the area.
-
-## Soft Skills
-
-- Focado / Focused
-- Esforçado / Hardworking
-- Curioso e autodidata / Curious & self-taught
-- Colaborativo / Team player
-- Adaptável / Adaptable
-
-## 🔗 Links
-
-[![GitHub](https://img.shields.io/badge/github-001a3c.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DaviTeixeira24)
-
-[![Gmail](https://img.shields.io/badge/Gmail-001a3c?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davi64491@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-001a3c?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-teixeira-86a37b292/)
-
-[![Instagram](https://img.shields.io/badge/-Instagram-001a3c?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davteiixeira/)

@@ -32,6 +32,6 @@
 ## 📍 **Localização:** Rio de Janeiro, RJ  
 📧 **Email:** [davisilvateixeiramoreira@gmail.com]  
 🔗 **LinkedIn:** [https://www.linkedin.com/in/davteiixeira/]  
-🔗 **GitHub:** [github.com/DaviTeixeira24]
+
 
 

@@ -25,11 +25,11 @@
 - ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 - ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
 
-## 🔧 **Outras Competências:**
+## **Outras Competências:**
 - **Suporte Técnico:** Manutenção de servidores, switches, redes.
 - **Infraestrutura:** Configuração de redes, troubleshooting e gerenciamento de sistemas.
 
-## 📍 **Localização:** Rio de Janeiro, RJ  
+## **Localização:** Rio de Janeiro, RJ  
 📧 **Email:** [davisilvateixeiramoreira@gmail.com]  
 🔗 **LinkedIn:** [https://www.linkedin.com/in/davteiixeira/]  
 
